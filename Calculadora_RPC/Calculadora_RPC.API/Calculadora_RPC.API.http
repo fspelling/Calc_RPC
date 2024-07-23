@@ -1,0 +1,6 @@
+@Calculadora_RPC.API_HostAddress = http://localhost:5222
+
+GET {{Calculadora_RPC.API_HostAddress}}/Calculadora/
+Accept: application/json
+
+###
