@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Calculadora_RPC/.vs/Calculadora_RPC
+/Calculadora_RPC/Calculadora_RPC.API/bin/Debug/net8.0
+/Calculadora_RPC/Calculadora_RPC.API/obj
+/Calculadora_RPC/Calculadora_RPC.Consumer/obj
+/Calculadora_RPC/Calculadora_RPC.Domain/obj
